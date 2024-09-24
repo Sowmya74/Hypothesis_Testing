@@ -44,5 +44,6 @@ Objective is to conduct hypothesis tests to:
 
 5. Drawn conclusions about which theme performs better for each metric, if any significant differences are found.
 
-Source Code: https://github.com/Sowmya74/Hypothesis_Testing/blob/f0d293e6e3c5a13012a9c8f52946692efd1bb6c1/Light_vs_Dark_Theme_Hypothesis_Testing.ipynb
-Dataset : https://github.com/Sowmya74/Hypothesis_Testing/blob/9b518e944639a989d355b7c35f0f64a4e0c8a200/website_ab_test.csv
+- Source Code: https://github.com/Sowmya74/Hypothesis_Testing/blob/f0d293e6e3c5a13012a9c8f52946692efd1bb6c1/Light_vs_Dark_Theme_Hypothesis_Testing.ipynb
+
+- Dataset : https://github.com/Sowmya74/Hypothesis_Testing/blob/9b518e944639a989d355b7c35f0f64a4e0c8a200/website_ab_test.csv
