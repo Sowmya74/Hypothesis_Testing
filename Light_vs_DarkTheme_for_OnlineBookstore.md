@@ -44,6 +44,6 @@ Objective is to conduct hypothesis tests to:
 
 5. Drawn conclusions about which theme performs better for each metric, if any significant differences are found.
 
-- [Source Code] (./Light_vs_Dark_Theme_Hypothesis_Testing.ipynb)
+- **[SourceCode](./Light_vs_Dark_Theme_Hypothesis_Testing.ipynb)**
+- **[Dataset](./website_ab_test.csv)**
 
-- [Dataset] (./website_ab_test.csv)
