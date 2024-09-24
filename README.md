@@ -4,7 +4,7 @@ This repository contains various hypothesis testing projects. Each project demon
 
 ## Projects
 
-### 1. Light vs Dark Theme for Online Bookstore
+### 1. **[Light vs Dark Theme for Online Bookstore](./Light_vs_DarkTheme_for_OnlineBookstore.md)**
 
 A Hypothesis testing experiment to determine which website theme leads to better user engagement and higher conversion rates for an online bookstore.
 
